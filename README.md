@@ -67,9 +67,9 @@ This package documents the project; it is not an executable demo. A video walkth
 
 Selected real outputs illustrate the reporting and review tools, not consistent profitability. The reports come from different runs and should not be treated as a single experiment.
 
-- [Full Strategy Shadow Comparison](https://simaesk.github.io/crypto-scanner-case-study/reports/shadow-comparison.html)
-- [Trade Chart Review — 13 trades](https://simaesk.github.io/crypto-scanner-case-study/reports/trade-charts.html#winners)
-- [Historical pre-entry ML research](https://simaesk.github.io/crypto-scanner-case-study/reports/pre-entry-research.html)
+- [Full Strategy Shadow Comparison](https://IronSteell.github.io/crypto-scanner-case-study/reports/shadow-comparison.html)
+- [Trade Chart Review — 13 trades](https://IronSteell.github.io/crypto-scanner-case-study/reports/trade-charts.html#winners)
+- [Historical pre-entry ML research](https://IronSteell.github.io/crypto-scanner-case-study/reports/pre-entry-research.html)
 
 The report links open directly in your browser via GitHub Pages; no download is required.
 

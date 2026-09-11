@@ -62,3 +62,17 @@
 - [Практичні історії діагностики](docs/uk/engineering-cases.md)
 
 Цей пакет є описом проєкту, а не виконуваною демоверсією. Окремі візуальні матеріали та відеоогляд готуються.
+
+## Приклади звітів
+
+Вибрані реальні результати демонструють інструменти аналізу та перевірки, а не стабільну прибутковість. Звіти походять із різних запусків і не є одним експериментом.
+
+- [Full Strategy Shadow Comparison](reports/shadow-comparison.html)
+- [Trade Chart Review — 13 угод](reports/trade-charts.html#winners)
+- [Історичне дослідження pre-entry ML](reports/pre-entry-research.html)
+
+GitHub показує вихідний HTML замість інтерактивного звіту. Завантажте HTML кнопкою **Download raw file** та відкрийте його у браузері.
+
+### Приклад Backtest Summary
+
+![Приклад Backtest Summary](assets/backtest-summary.png)

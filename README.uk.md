@@ -67,9 +67,9 @@
 
 Вибрані реальні результати демонструють інструменти аналізу та перевірки, а не стабільну прибутковість. Звіти походять із різних запусків і не є одним експериментом.
 
-- [Full Strategy Shadow Comparison](https://simaesk.github.io/crypto-scanner-case-study/reports/shadow-comparison.html)
-- [Trade Chart Review — 13 угод](https://simaesk.github.io/crypto-scanner-case-study/reports/trade-charts.html#winners)
-- [Історичне дослідження pre-entry ML](https://simaesk.github.io/crypto-scanner-case-study/reports/pre-entry-research.html)
+- [Full Strategy Shadow Comparison](https://IronSteell.github.io/crypto-scanner-case-study/reports/shadow-comparison.html)
+- [Trade Chart Review — 13 угод](https://IronSteell.github.io/crypto-scanner-case-study/reports/trade-charts.html#winners)
+- [Історичне дослідження pre-entry ML](https://IronSteell.github.io/crypto-scanner-case-study/reports/pre-entry-research.html)
 
 Посилання відкривають звіти безпосередньо у браузері через GitHub Pages; завантажувати файли не потрібно.
 

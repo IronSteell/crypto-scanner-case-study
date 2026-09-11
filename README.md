@@ -67,11 +67,11 @@ This package documents the project; it is not an executable demo. A video walkth
 
 Selected real outputs illustrate the reporting and review tools, not consistent profitability. The reports come from different runs and should not be treated as a single experiment.
 
-- [Full Strategy Shadow Comparison](reports/shadow-comparison.html)
-- [Trade Chart Review — 13 trades](reports/trade-charts.html#winners)
-- [Historical pre-entry ML research](reports/pre-entry-research.html)
+- [Full Strategy Shadow Comparison](https://simaesk.github.io/crypto-scanner-case-study/reports/shadow-comparison.html)
+- [Trade Chart Review — 13 trades](https://simaesk.github.io/crypto-scanner-case-study/reports/trade-charts.html#winners)
+- [Historical pre-entry ML research](https://simaesk.github.io/crypto-scanner-case-study/reports/pre-entry-research.html)
 
-GitHub displays HTML source rather than the interactive report. Download an HTML file using **Download raw file**, then open it in your browser.
+The report links open directly in your browser via GitHub Pages; no download is required.
 
 ### Backtest Summary example
 

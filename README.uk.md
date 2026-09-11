@@ -61,17 +61,17 @@
 - [Перевірки, replay та звіти](docs/uk/validation-and-replay.md)
 - [Практичні історії діагностики](docs/uk/engineering-cases.md)
 
-Цей пакет є описом проєкту, а не виконуваною демоверсією. Окремі візуальні матеріали та відеоогляд готуються.
+Цей пакет є описом проєкту, а не виконуваною демоверсією. Відеоогляд готується.
 
 ## Приклади звітів
 
 Вибрані реальні результати демонструють інструменти аналізу та перевірки, а не стабільну прибутковість. Звіти походять із різних запусків і не є одним експериментом.
 
-- [Full Strategy Shadow Comparison](reports/shadow-comparison.html)
-- [Trade Chart Review — 13 угод](reports/trade-charts.html#winners)
-- [Історичне дослідження pre-entry ML](reports/pre-entry-research.html)
+- [Full Strategy Shadow Comparison](https://simaesk.github.io/crypto-scanner-case-study/reports/shadow-comparison.html)
+- [Trade Chart Review — 13 угод](https://simaesk.github.io/crypto-scanner-case-study/reports/trade-charts.html#winners)
+- [Історичне дослідження pre-entry ML](https://simaesk.github.io/crypto-scanner-case-study/reports/pre-entry-research.html)
 
-GitHub показує вихідний HTML замість інтерактивного звіту. Завантажте HTML кнопкою **Download raw file** та відкрийте його у браузері.
+Посилання відкривають звіти безпосередньо у браузері через GitHub Pages; завантажувати файли не потрібно.
 
 ### Приклад Backtest Summary
 

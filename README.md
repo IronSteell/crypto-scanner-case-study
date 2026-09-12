@@ -12,6 +12,10 @@ While scalping, I kept trading journals and analyzed my results. I gradually dev
 
 The project grew from signal detection into testing trading logic on recorded data, order execution, comparing alternative strategies, and researching ML decisions. I use it personally; it does not yet have external users.
 
+[![Crypto Scanner interface overview](assets/scanner-interface.png)](assets/scanner-interface.png)
+
+**Crypto Scanner interface overview:** market scanning and signals, Backtest Lab, execution panel with risk controls, trade statistics, and settings.
+
 ## Main capabilities
 
 | Subsystem | Purpose |

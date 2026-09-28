@@ -6,6 +6,12 @@ English | [Українська](README.uk.md)
 
 I'm Kyrylo Symonov, and I have been developing this project since February 2026. This case study describes the system's capabilities, my decisions, and my workflow. Private strategy parameters, the full source code, and detailed trading logs are not included in this package.
 
+## Video walkthrough
+
+[Watch the project overview on YouTube — Ukrainian, approximately 13 minutes](https://www.youtube.com/watch?v=hrq3JSB-UBA)
+
+An overview of the interface and main modules, a short backtest, reports, and execution lifecycle illustrations. Live trading is not started in this recording.
+
 ## From a practical need to a tool
 
 While finding my trading style, I mainly practiced scalping, kept detailed trading journals, and analyzed the statistics. As I gradually developed my own trading rules, I could not find the combination of signal detection features I needed in the tools I knew. This created a need for my own scanner.
@@ -67,7 +73,7 @@ A positive offline result does not establish a model's readiness for live use; i
 - [Validation, replay, and reports](docs/validation-and-replay.md)
 - [Practical debugging stories](docs/engineering-cases.md)
 
-This package provides an introduction to the project. A video walkthrough is being prepared.
+This package provides an introduction to the project.
 
 ## Example reports
 
